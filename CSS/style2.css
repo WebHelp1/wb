@@ -19,7 +19,7 @@ table {border-collapse: collapse;border-spacing: 0;}
 .header{  background-position: right; background-color: black;  font-family: stencil std;}
 .header div{margin-left: 115px;  }
 .header img{ padding-left: 40px; }
-.header a{text-decoration: none; color:red; font-size: 25px;margin-left:  180px;  }
+.header a{text-decoration: none; color:red; font-size: 25px;margin-left:  150px;  }
 .header a:hover{background-image: url(../img/i.gif); background-size: 110px 110px; border-radius: 40px; color: green; padding:  7px 12px 7px; }
 
 .para{ background-color: black; background-size: cover;  color: #ff0000; }
